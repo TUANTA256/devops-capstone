@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name:  app
-        image: 0352730247/app:{{TAG_ID}}
+        image: 0382607788/app:{{TAG_ID}}
         resources:
           limits:
             cpu: "100m"
